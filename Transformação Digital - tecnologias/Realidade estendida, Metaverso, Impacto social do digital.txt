@@ -1,0 +1,12 @@
+Nessa aula, você aprendeu sobre:
+Realidade Estendida: tecnologia que visa proporcionar experiências que emulam o mundo real em um ambiente de interface computacional. Engloba a realidade virtual, a realidade aumentada e a realidade mista.
+
+Realidade Virtual: envolve a imersão completa (visão / audição) do usuário em uma emulação de mundo real tridimensional.
+
+Realidade Aumentada: envolve a superposição (integração) de objetos reais e virtuais. Objetos virtuais são adicionados no mundo real via percepção sensorial do mundo tridimensional.
+
+Realidade Mista: envolve a interposição de objetos virtuais e objetos reais. Exemplo: arremesso de um objeto virtual que vai parar atrás de um objeto real, deixando de ser visível.
+
+Metaverso: ambiente virtual coletivo, acessado via internet, que procura replicar a realidade através de tecnologias e dispositivos digitais.
+
+Impacto social do digital: influência dos dispositivos digitais na sociedade, que pode ser de natureza positiva (maior conforto e produtividade) ou negativa (alienação, isolamento, sedentarismo, fuga, perda de privacidade, controle social etc.).

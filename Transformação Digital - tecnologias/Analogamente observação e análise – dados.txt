@@ -1,0 +1,35 @@
+Dados são pedras brutas que podem conter cristais valiosos (as informações). Para entendermos o gigantesco valor que uma informação pode ter, considere os seguintes exemplos:
+
+Quanto não valeria saber em 10/09/2001 que no dia seguinte estava planejado um atentado às torres gêmeas via aeronaves?
+Quanto não valeria saber em 2007 que uma crise econômica aguda eclodiria em 2008 envolvendo os “subprimes”?
+Ou, em uma perspectiva mais localizada:
+
+Quanto não valeria saber que produtos / serviços seriam comprados em maior quantidade e por quais clientes?
+Como primeiro passo para gerar insights baseados em dados, é comum a criação de indicadores. Sucedem-se então as seguintes fases:
+
+As pessoas olham os indicadores, sem ação.
+As pessoas falam sobre gerar ações, mas em clima de adivinhação ou brainstorming.
+As pessoas de fato definem ações, mas sem avaliar sua eficácia.
+As pessoas começam a avaliar a eficácia das ações e as trocam, quando necessário, até melhorar os indicadores.
+Em um estágio mais acima, os dados são usados não só para gerar indicadores e ações mas também começam a ser explorados mais cientificamente, em busca de correlações. É quando a empresa começa a ir atrás de engenheiros de dados / cientistas de dados, mesmo sem saber em profundidade do que se trata.
+
+Nessa aula, você aprendeu sobre:
+Big Data: tecnologia que envolve manipulação de grande volume e variedade de dados, em contexto de alta velocidade, visando identificar informações válidas e relevantes para a tomada de decisões que agreguem valor.
+
+Computação em nuvem (“cloud”): ambiente computacional (hardware e software) baseado em servidores remotos (fora do ambiente do cliente), com conexão via internet.
+
+Infraestrutura como serviço - IaaS: serviço remoto de armazenamento e processamento compartilhados.
+
+Plataforma como serviço - PaaS: serviço que, além do fornecido pelo IaaS, provê suporte ao desenvolvimento de aplicações para internet.
+
+Software como serviço - SaaS: serviço que provê aplicações que não precisam ser instaladas em máquinas de usuários.
+
+Ciência de Dados / Analytics: estudo baseado em tecnologia que permite identificar padrões ocultos, correlações etc. em um conjunto de dados, visando descrever e explicar situações, bem como fazer previsões e inspirar ações.
+
+Análise Descritiva: análise que permite identificar “fatos” nos dados para descrever sucintamente o que está acontecendo.
+
+Análise Diagnóstica: análise que permite comparar tendências ou movimentos coexistentes, revelando correlações e determinando relações causais onde possível.
+
+Análise Preditiva: análise que permite analisar dados históricos rumo à percepção de tendências que ajudem a formular o que pode acontecer com o negócio no futuro.
+
+Análise Prescritiva: análise que considera fatores possíveis em um cenário e sugere ações (útil para tomada de decisões baseadas em dados).

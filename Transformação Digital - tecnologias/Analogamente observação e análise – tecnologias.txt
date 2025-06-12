@@ -1,0 +1,22 @@
+Quando da pandemia de covid-19, muitas organizações se viram obrigadas a acelerar suas digitalizações, o que não tem necessariamente a ver com avanço legítimo de Transformação Digital, como vimos.
+
+Startups e empresas que já eram flexíveis, abertas e digitais seguiram seus rumos sem grandes solavancos.
+
+Existe uma linha forte de pensamento que diz que a inovação e os testes de novas tecnologias em prol da mesma devem ser realizados por equipes dedicadas e apartadas, fora do dia a dia, para dar foco. Outras abordagens propõem um modelo misto, com grupos de dedicação exclusiva e participações esporádicas e coordenadas de pessoas da operação no sistema de inovação organizacional.
+
+De qualquer forma, nas fases finais da tentativa de inovação (experimentação, geração de protótipos e MVPs), realmente a coisa se reveste de um caráter mais de projeto e demanda bastante esforço.
+
+Nessa aula, você aprendeu sobre:
+Cibersegurança: conjunto de processos, técnicas e práticas para garantir a segurança dos ambientes digitais, no tocante à confidencialidade, integridade e disponibilidade. Envolve controles preventivos, de detecção, corretivos e compensatórios.
+
+Controles preventivos de segurança: envolvem blindar um ambiente contra ataques (hackers, software malicioso) e vazamentos.
+
+Controles de detecção de segurança: envolvem identificar rapidamente um ataque e sua extensão.
+
+Controles corretivos de segurança: envolvem minimizar as perdas oriundas de um ataque.
+
+Controles compensatórios de segurança: envolvem manter os serviços essenciais e acesso aos sistemas de recuperação quando um ataque for bem-sucedido.
+
+Blockchain: tecnologia de armazenamento que objetiva validar a autenticidade de ativos baseados em dados sem a necessidade de instituições validadoras.
+
+Provas de conceito: implementação simplificada com o objetivo de avaliar algo antes de iniciar o uso em situação real.
