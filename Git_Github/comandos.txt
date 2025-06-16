@@ -1,0 +1,6 @@
+git init para iniciar o projeto no git
+git add . mandar todos os arquivos para o git
+git commit -m "" mensagemm do que está fazendo
+git branch -M main
+git remote add origin git@github (SSH do projeto no github) para vincular o repositorio local com o remoto
+git push -u origin main enviar o que fez localmnete para o github
