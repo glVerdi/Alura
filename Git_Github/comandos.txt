@@ -1,6 +1,18 @@
 git init para iniciar o projeto no git
-git add . mandar todos os arquivos para o git
-git commit -m "" mensagemm do que está fazendo
+git add . adiciona todos os arquivos para o repositório local
+git commit -m "" registra mudanças no repositório
 git branch -M main
 git remote add origin git@github (SSH do projeto no github) para vincular o repositorio local com o remoto
 git push -u origin main enviar o que fez localmnete para o github
+git remote -v listar os repositórios remotos associados ao seu projeto local
+git remote remove nome_repositorio remover o repositório remoto específico
+git remote rename nome_repositorio novo_nome renomear um repositório remoto
+git clone + URL do projeto trazer o projeto que está no github para o seu computador comm todo o histórico do projeto 
+git status exibe um relatorio sobre os arquivos alterados
+git add + nome_arquivo adiciona o arquivo específico ao repositório local
+git log lista o histórico de commits de um repositório
+git remote lista os repositórios remotos
+git pull origin main baixa os commits do repositório remoto para o repositório local
+git revert + id do commit desfaz alterações em um commit
+git reset --hard + id do commit anterior apaga alterações em um commit local
+git commit --amend -m "" altera o último commit, sem apagá-lo
