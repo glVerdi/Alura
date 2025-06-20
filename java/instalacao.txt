@@ -1,0 +1,36 @@
+No windows
+Procurar no google: java dowload oracle.
+Baixar versão de longo prazo LTS, baixar JDK o mais recente com LTS, MSI installer.  
+Vá em painel de controle e procure por “Sistema”, após isso, clique em “Configurações avançadas do sistema”.
+Na aba "Avançado", clique em “Variáveis de Ambiente”.
+Agora foi aberta uma nova janela na parte inferior da tela, selecione a variável de ambiente chamada “Path” e clique em “Editar”.
+Nessa nova janela, clique no botão “Novo” e na linha que foi selecionada, coloque o caminho para seu diretório bin dentro da pasta jdk, que está dentro da pasta Java. Exemplo: C:\Program Files\Java\jdk- 17\bin
+Testar os comandos java -version e javac -version no prompt de comando.
+Peoxurar no google: dowload Intellij.
+Baixar a versão community.
+No Windows será baixado o instalador da ferramenta, com nome similar a "ideaIC-2022.3.2", dependendo da versão baixada. Para iniciar a instalação, vamos executar esse arquivo. Após executado, vai ser aberta uma janela de instalador padrão do Windows, como na imagem abaixo, onde vamos clicar no botão "Next".
+Que vai nos direcionar para uma página onde vamos selecionar em qual pasta será feita a instalação. Aqui nós podemos deixar no diretório padrão e novamente clicar no botão "Next".
+Após isso, seremos direcionados para uma tela com várias caixas de seleção, com opções de instalação da ferramenta. São opções referentes à se queremos criar um atalho no desktop, adicionar o IntelliJ ao PATH, para que possa ser acessado via linha de comando, adicionar uma nova ação ao menu de contexto, para que quando clicarmos em um arquivo com o botão direito do mouse aparece a opção de abri-lo no IntelliJ, e criar associações aos tipos de arquivo, para que eles sejam abertos diretamente na IDE. Aqui podemos selecionar todas as caixas.
+Após isso, vamos para a seleção da pasta do menu iniciar onde poderemos localizar a nossa IDE. Nessa tela podemos simplesmente deixar a opção padrão e clicar no botão "Install" para instalar a ferramenta no computador.
+Ao final da instalação, seremos direcionados a uma tela com a opção de reiniciar o computador agora ou depois. É recomendável reiniciar o computador, para que as alterações no PATH funcionem corretamente, no entanto a ferramenta já pode ser utilizada mesmo sem a reinicialização. Por fim, podemos clicar no botão "Finish", para finalizar o instalador.
+
+No Linux
+No terminal, vamos executar o seguinte comando para atualizar a lista de pacotes disponíveis para download nos repositórios do sistema: sudo apt update.
+Instalar a versão 17 do JDK através do comando: sudo apt install openjdk-17-jdk.
+Dessa forma, o sistema irá baixar e instalar o pacote OpenJDK 17 JDK, permitindo que o usuário comece a desenvolver aplicativos Java no Linux. Terminado esse processo de instalação, agora precisamos configurar a variável de ambiente JAVA_HOME, utilizada para indicar o caminho de instalação do JDK. Em uma tradução literal seria o “lar do java” e ela será necessária para utilizarmos os recursos do JDK como o javac. Para isso, iremos executar o comando sudo update-alternatives --config java que mostrará o caminho onde o JDK foi instalado. 
+Agora, precisamos copiar esse caminho até /bin, por exemplo: /usr/lib/jvm/java-17-openjdk-amd64/bin e digitar no seu terminal o comando: export JAVA_HOME=, sendo que após o sinal de igual, sem deixar espaços, cole o caminho que você copiou da instalação do JDK. Por exemplo: export JAVA_HOME=/usr/lib/jvm/ava-17-openjdk-amd64/bin. Vamos pressionar a tecla “enter” e pronto, o JDK está instalado e configurado. Para testá-lo, digite os seguintes comandos no terminal: javac -version e java -version.
+Peoxurar no google: dowload Intellij.
+Baixar a versão community.
+Em sistemas Linux, o arquivo baixado é um arquivo compactado já com a IDE pré-instalada. Para conseguir executá-la, precisamos navegar até a pasta onde o arquivo baixado está e descompactá-lo com o comando: 
+tar -xf <arquivoBaixado>.tar.gz O nome do arquivo pode variar conforme a versão baixada, mas sempre segue um padrão como "ideaIC-2022.3.2.tar".
+Após descompactar o arquivo, será criada uma pasta com nome similar a "idea-IC-xxx.xxx.xx" onde os "x" representam a versão da ferramenta. Para abrir a IDE, é necessário navegar até a pasta, através do comando: cd idea-IC-xxx.xxx.xx. E acessar a subpasta "bin", a partir do comando: cd bin
+Onde está localizado o arquivo "idea.sh", que é o script de inicialização do IntelliJ. Agora, para abrir a IDE basta rodar o script com o comando: ./idea.sh
+Que vai inicializar a ferramenta que já está pronta para ser utilizada!.
+
+No MAc
+Procurar no google: java dowload oracle.
+Baixar versão de longo prazo LTS, baixar JDK o mais recente com LTS, Amd 64-Compresse Archive
+Peoxurar no google: dowload Intellij.
+Baixar a versão community.
+Para isso, vamos navegar até a pasta de download do arquivo e executá-lo com duplo clique. Será aberta uma janela pedindo para que o ícone do IntelliJ seja arrastado até o ícone da pasta Applications.
+Após arrastar, vai ser iniciado o processo de cópia de arquivos e a IDE será instalada. Ao término da instalação basta pesquisar no menu de pesquisa por "IntelliJ" e executar o programa "IntelliJ IDEA CE", que já teremos acesso aos recursos da ferramenta.
